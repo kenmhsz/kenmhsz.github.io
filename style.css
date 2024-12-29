@@ -1,0 +1,38 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #c7d4ec;
+}
+
+#Role {
+  background-color: #c7d4ec;
+  padding-top: 2rem;
+}
+
+section {
+  padding-top: 2rem;
+}
+
+.logo-ig {
+  width: 64px;
+  height: 64px;
+}
+.fa:hover {
+  opacity: 0.9;
+}
+
+.fa-instagram {
+  background: #0d6efd;
+  color: white;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-decoration: none;
+  margin: 5px 80px;
+}
+
+footer{
+  padding-top: 2rem;
+}
